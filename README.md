@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Cheryl Vadivello an IT enthusiat. I love programming and it is my goal to learn as many programming languages as possible. I am currently seeking employment in the IT sector. I know my stuff, and if I don't well I can learn...really quickly. I don't have a piece of paper as of yet to vouch for me, henceforth I will be uploading projects as soon as they are ready. Hopefully someone will notice and give me a shot.
 
 <!--
 **partaze/partaze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
